@@ -4,3 +4,4 @@ This is an interactive version of the famous chart of Moore's Law written in D3J
 **References:**
 
 https://en.wikipedia.org/wiki/Transistor_count
+https://en.wikipedia.org/wiki/Moore%27s_law
