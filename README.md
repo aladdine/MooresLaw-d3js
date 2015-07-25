@@ -1,2 +1,2 @@
 # MooresLaw-d3js
-D3JS chart of Moore's LAW
+This is an interactive version of the famous chart of Moore's Law written in D3JS.
