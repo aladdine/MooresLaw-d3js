@@ -1,2 +1,2 @@
-# Solar-Cell-Efficiency-Records---d3js-chart
-This D3JS visualization is an interactive version of the famous chart that tracks solar cell efficiencies since 1975.
+# The Interactive Moore's Law
+Moore's law is too rich to fit in paper. This is an open source project aimed at making the chart more interactive for the sake of illiciting more insights from it. Feel free to use, edit and distribute.
