@@ -1,8 +1,2 @@
-# MooresLaw-d3js
-This is an interactive version of the famous chart of Moore's Law written in D3JS.
-
-**References:**
-
-https://en.wikipedia.org/wiki/Transistor_count
-
-https://en.wikipedia.org/wiki/Moore%27s_law
+# Solar-Cell-Efficiency-Records---d3js-chart
+This D3JS visualization is an interactive version of the famous chart that tracks solar cell efficiencies since 1975.
