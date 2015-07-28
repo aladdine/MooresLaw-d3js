@@ -12,7 +12,7 @@
 <h4>Moore's law is too rich to fit in paper. This is an open source project aimed at making the chart more interactive for the sake of illiciting more insights from it.</h4>
 <script  type="text/javascript" src="count-of-transistors-on-microprocessors-data.js"></script>
 <script>
-var w = 1000;
+var w = 1200;
 var h = 650;
 var margin = {
 	top: 60,
@@ -167,12 +167,12 @@ function plot(params){
 				return y(d.value);
 			})
 			.on("mouseover", function(d,i){
-				var str1 = "Processor:" + d.processor + " |";
+				var str1 = "Processor: " + d.processor + " | ";
 				str1 += "Year: " + d.year + " | ";
-				str1 += "Transistors count: " + d.count + " | ";
+				str1 += "Transistor count: " + d.count + " | ";
 				str1 += "Designer: " + d.designer + " | ";
 				str1 += "Process: " + d.process + " | ";
-				str1 += "Area: " + d.area + "";
+				str1 += "Area: " + d.area + " ";
 				d3.select(".chart-header")	
 				.text(str1);
 				
